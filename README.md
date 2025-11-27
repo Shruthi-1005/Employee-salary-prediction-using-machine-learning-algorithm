@@ -1,4 +1,4 @@
-# Employee-salary-prediction-using-linear-regression
+# Employee-salary-prediction-using-machine-learning-algorithm
 Employee Salary Prediction
 This project uses machine learning to predict whether an employee's salary is above or below $50,000 per year based on demographic and employment data. The entire data analysis, model training, and evaluation process is detailed in the accompanying Jupyter notebook. The best-performing model is deployed in a user-friendly Streamlit web application.
 Key Features:
